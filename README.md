@@ -5,7 +5,7 @@ This project features a comprehensive Power BI dashboard designed to optimize in
 
 # Key Insights & Features
 ## KPI Scorecards
-Total Inventory: Real-time visibility into current stock levels across all regions.
+Total Inventory: Real-time visibility into total stock on hand
 
 Low Inventory Items: Automated alerts to identify products at risk of stockouts.
 

@@ -1,5 +1,5 @@
 
-# PowerBI-Inventory-Dashboard
+# Inventory-Dashboard
 
 This project features a comprehensive Power BI dashboard designed to optimize inventory management and track sales performance. By integrating KPIs for inventory health and sales forecasting, this tool enables stakeholders to minimize stockouts, reduce carrying costs, and improve revenue predictability.
 

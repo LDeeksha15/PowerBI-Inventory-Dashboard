@@ -1,3 +1,4 @@
+
 # PowerBI-Inventory-Dashboard
 
 This project features a comprehensive Power BI dashboard designed to optimize inventory management and track sales performance. By integrating KPIs for inventory health and sales forecasting, this tool enables stakeholders to minimize stockouts, reduce carrying costs, and improve revenue predictability.
@@ -17,22 +18,22 @@ Trend Monitoring: Line charts tracking inventory levels and revenue by month to 
 
 Operational Efficiency: Stacked Area Chart for inventory turnover, visualizing how quickly stock converts into sales.
 
-Performance vs. Plan: Clustered Bar Chart comparing actual sales versus forecast sales to evaluate forecasting reliability.
+Performance vs. Plan: Stacked Bar Chart comparing actual sales versus forecast sales to evaluate forecasting reliability.
 
 # Interactive Slicers
 Dynamic Filtering: Slice data by Category, Region, and Year/Month for granular, localized insights.
 
 # Technical Stack
-Tool: Power BI Desktop
+Tool: Power BI Desktop,Power Query for data cleaning and transformation
 
-Data Modeling: Star Schema with Fact and Dimension tables
-
-DAX: Custom measures for Forecast Accuracy %, Inventory Turnover rates
+DAX: For Creatig Custom measures and KPIs
 
 Data Source: CSV Files
 
+GitHub:For Project documentation and version control
+
 # Business Impact
-Reduced Stockouts: Procurement teams act up to 20% faster by monitoring low inventory alerts.
+Reduced Stockouts: Procurement teams act faster by monitoring low inventory alerts.
 
 Optimized Working Capital: Identifies slow-moving inventory that ties up cash flow.
 
